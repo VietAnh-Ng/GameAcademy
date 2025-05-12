@@ -12,7 +12,7 @@ public class Player : MonoBehaviour
         rb = this.GetComponent<Rigidbody2D>();
 
         rb.velocity = new(3, 0);
-
+        kuhgsfysdgfkjasd
     }
 
     // Update is called once per frame
